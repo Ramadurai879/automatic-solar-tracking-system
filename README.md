@@ -100,6 +100,6 @@ This project is intended for educational and learning purposes. You are welcome 
 
 ## 👨‍💻 Author
 
-**Ram**
+**RAMADURAI,SIDHARTH,PARTHIBAN**
 
 Electrical and Electronics Engineering (EEE) Student
